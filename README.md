@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react js   C/C++ ...**
 
-- 💬 Ask me about **C  Python  HYML&CSS  PHP  JS**
+- 💬 Ask me about **C       Python           HYML&CSS             PHP              JS**
 
 - 📫 How to reach me **mohamed.seffar@hotmail.com**
 
