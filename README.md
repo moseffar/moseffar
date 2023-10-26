@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Seffar</h1>
-<h3 align="center">with a passion for web development and problem-solving  & Interested in Cybersecurity ; from Morocco</h3>
+<h3 align="center">with a passion for web development and problem-solving  & Interested in Cybersecurity ; <br> from Morocco</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moseffar&label=Profile%20views&color=0e75b6&style=flat" alt="moseffar" /> </p>
