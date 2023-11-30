@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moseffar&label=Profile%20views&color=0e75b6&style=flat" alt="moseffar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/lucomohamed" target="blank"><img src="https://img.shields.io/twitter/follow/lucomohamed?logo=twitter&style=for-the-badge" alt="lucomohamed" /></a> </p>
-
 - 🌱 I’m currently learning **react js   C/C++ ...**
 
 - 🥅 2024 Goals: **Learn more about Cybersecurity**
