@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Seffar</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&duration=1500&pause=1500&width=490&lines=with+a+passion+for+web+development;Interested+in+Cybersecurity+and+problem+-+solving;" alt="Typing SVG" /></a> 
-  <br> from Morocco</h3>
+
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moseffar&label=Profile%20views&color=0e75b6&style=flat" alt="moseffar" /> </p>
