@@ -9,9 +9,9 @@
 
 - 🥅 2024 Goals: **Learn more about Cybersecurity**
 
-- ⚡ Fun fact **It's all 0's and 1's**
+- ⚡ Fun fact **It's all 0 and 1**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed-seffar-4366a017b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-seffar-4366a017b" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammed_seffar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammed_seffar" height="30" width="40" /></a>
