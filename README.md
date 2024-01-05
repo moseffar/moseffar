@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moseffar&label=Profile%20views&color=0e75b6&style=flat" alt="moseffar" /> </p>
 
-- 🌱 I’m currently learning **full stack tools**
+- 🌱 I’m currently learning **Full Stack TOOLS**
 
 - 🥅 2024 Goals: **Learn more about Cybersecurity**
 
