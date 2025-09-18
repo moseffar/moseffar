@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack TOOLS**
 
-- 🥅 2024 Goals: **Learn more about Cybersecurity**
+- 🥅 2026 Goals: **Learn more about Cybersecurity**
 
 - ⚡ Fun fact **It's all 0 and 1**
 
